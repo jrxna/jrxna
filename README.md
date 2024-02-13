@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jrxna
+- 👀 I’m interested in databases and data retrieval
+- 🌱 I’m currently learning database programming
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me: @jrxna everywhere
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: ...
