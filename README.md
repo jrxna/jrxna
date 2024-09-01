@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jrxna
 - 👀 I’m interested in Java & Databases
 - 🌱 I’m currently learning Java, Databases, and System Design
-- 💞️ I’m looking to collaborate on data retrieval projects
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: jrxna@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the acoustic guitar
