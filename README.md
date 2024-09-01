@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jrxna
-- 👀 I’m interested in Java & Databases
-- 🌱 I’m currently learning Java, Databases, and System Design
-- 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me: jrxna@outlook.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play the acoustic guitar
+- 👋 Hi, my name is Joel Rego. Thanks for dropping by. 
+- 👀 I’m interested in System Design & Data Retrieval. 
+- 🌱 I’m currently learning Distributed Systems.
+- 💞️ I’m looking to collaborate on Big Data projects.
+- 📫 How to reach me: @JRXNA everywhere.
+- ⚡ Fun fact: I love playing the acoustic guitar.
