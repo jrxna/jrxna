@@ -1,6 +1,3 @@
-- 👋 Hi, my name is Joel Rego. Thanks for dropping by. 
-- 👀 I’m interested in System Design & Data Retrieval. 
-- 🌱 I’m currently learning Distributed Systems.
-- 💞️ I’m looking to collaborate on Big Data projects.
-- 📫 How to reach me: @JRXNA everywhere.
-- ⚡ Fun fact: I love playing the acoustic guitar.
+- 👋 Hi, my name is Joel Rego. Thank you so much for dropping by on my GitHub profile. 
+- 💞️ Passionate about Software Engineering, Distributed Systems & Data Retrieval. 
+- 📫 How to reach me: @jrxna on LinkedIn, GitHub and XBox.
