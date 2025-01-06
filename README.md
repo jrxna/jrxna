@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Joel Rego. Thank you so much for dropping by on my GitHub profile. 
-- 💞️ Passionate about Software Engineering, Distributed Systems & Data Retrieval. 
+- 💞️ Passionate about Software Engineering, System Design & Product Management. 
 - 📫 How to reach me: @jrxna on LinkedIn, GitHub and XBox.
