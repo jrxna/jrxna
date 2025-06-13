@@ -1,3 +1,9 @@
-- Hi, my name is Joel Rego. Thank you so much for dropping by on my GitHub profile. 
-- Passionate about Cloud Infrastructure, Software Engineering, Product Management. 
+- 💻 Favorite Programming Language: Java  
+- 🪐 Sci-Fi Universe: *Dune* saga by Frank Herbert  
+- 🎮 Game Franchise: *Halo* (especially *Halo Wars*)  
+- 🎸 Rock Band: Red Hot Chili Peppers  
+- 🎵 Favorite Song: *Under the Bridge* by RHCP  
+- 🗞️ Newspaper: Washington Post  
+- 🌆 Favorite Place on Earth: Los Angeles, California  
+- 🎶 Favorite Instrument: Electric Guitar  
 - How to reach me: @jrxna on BlueSky, LinkedIn, and GitHub.
