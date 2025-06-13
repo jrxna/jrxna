@@ -1,8 +1,8 @@
 - 💻 Favorite Programming Language: Java  
-- 🪐 Sci-Fi Universe: *Dune* saga by Frank Herbert  
-- 🎮 Game Franchise: *Halo* (especially *Halo Wars*)  
+- 🪐 Sci-Fi Universe: Dune saga by Frank Herbert  
+- 🎮 Game Franchise: Halo (especially Halo Wars)  
 - 🎸 Rock Band: Red Hot Chili Peppers  
-- 🎵 Favorite Song: *Under the Bridge* by RHCP  
+- 🎵 Favorite Song: Under the Bridge by RHCP  
 - 🗞️ Newspaper: Washington Post  
 - 🌆 Favorite Place on Earth: Los Angeles, California  
 - 🎶 Favorite Instrument: Electric Guitar  
