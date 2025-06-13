@@ -4,6 +4,6 @@
 - 🎸 Rock Band: Red Hot Chili Peppers  
 - 🎵 Favorite Song: Under the Bridge by RHCP  
 - 🗞️ Newspaper: Washington Post  
-- 🌆 Favorite Place on Earth: Los Angeles, California  
+- 🌆 Favorite Place on Earth: Los Angeles, CA
 - 🎶 Favorite Instrument: Electric Guitar  
-- How to reach me: @jrxna on BlueSky, LinkedIn, and GitHub.
+- How to reach me: @jrxna everywhere
