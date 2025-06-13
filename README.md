@@ -1,9 +1,10 @@
-- 💻 Favorite Programming Language: Java  
+- 💻 Favorite Programming Language: Java
 - 🪐 Sci-Fi Universe: Dune saga by Frank Herbert  
 - 🎮 Game Franchise: Halo (especially Halo Wars)  
 - 🎸 Rock Band: Red Hot Chili Peppers  
 - 🎵 Favorite Song: Under the Bridge by RHCP  
-- 🗞️ Newspaper: Washington Post  
+- 🗞️ Favorite Publication: Washington Post  
 - 🌆 Favorite Place on Earth: Los Angeles, CA
-- 🎶 Favorite Instrument: Electric Guitar  
+- 🎶 Favorite Instrument: Electric Guitar
+- 🌿 Drug of Choice: Marijuana + Caffeine 
 - How to reach me: @jrxna everywhere
